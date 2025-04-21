@@ -38,9 +38,8 @@ Bank class – manages account operations
 BankManagementSystem – main runner class with the menu
 
 🔍 Sample Output
-markdown
-Copy
-Edit
+
+
 === Bank Menu ===
 1. Create Account
 2. Deposit
@@ -59,8 +58,6 @@ Save the code in a file: BankManagementSystem.java
 
 Compile and run:
 
-bash
-Copy
-Edit
+
 javac BankManagementSystem.java
 java BankManagementSystem
